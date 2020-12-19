@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import Message from './Message'
-import Sidebar from './Sidebar'
+
 
 function App() {
   return (
@@ -9,7 +9,6 @@ function App() {
 
     <Message/>
     
-
 
     </div>
   );
